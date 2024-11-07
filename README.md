@@ -1,12 +1,10 @@
 # jgdb
-Discord bot to ping a role whenever he tweets or replies to someone
+DIscord bot which randomly gives hamilton lyrics or parts when they are mentioned
 
 This whole idea is silly but we love doing schenanigans
 
 # Goals
-the goals for this is to succssfully create a bot which can 
-make it simple to see when certain accounts tweet like news accounts
-or the pokemon tcg account and such
+goals have changed, hamilton lyrics.
 
 wish me luck!
 - Lily 26/10/24
